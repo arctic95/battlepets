@@ -1,5 +1,4 @@
 const passport = require('passport');
-const keys = require('./keys');
 
 const BnetStrategy = require('passport-bnet').Strategy;
  
